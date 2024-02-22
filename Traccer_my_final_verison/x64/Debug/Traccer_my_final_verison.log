@@ -1,0 +1,7 @@
+﻿  Traccer_my_final_verison.cpp
+D:\Program Files (x86)\Рабочий стол\Лабораторные работы\Курсовая сети\Traccer_my_final_verison\Traccer_my_final_verison.cpp(40,9): warning C4244: return: преобразование "long" в "unsigned short", возможна потеря данных
+D:\Program Files (x86)\Рабочий стол\Лабораторные работы\Курсовая сети\Traccer_my_final_verison\Traccer_my_final_verison.cpp(66,60): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Program Files (x86)\Рабочий стол\Лабораторные работы\Курсовая сети\Traccer_my_final_verison\Traccer_my_final_verison.cpp(231,33): warning C4267: аргумент: преобразование из "size_t" в "u_short"; возможна потеря данных
+D:\Program Files (x86)\Рабочий стол\Лабораторные работы\Курсовая сети\Traccer_my_final_verison\Traccer_my_final_verison.cpp(240,59): warning C4267: аргумент: преобразование из "size_t" в "u_short"; возможна потеря данных
+D:\Program Files (x86)\Рабочий стол\Лабораторные работы\Курсовая сети\Traccer_my_final_verison\Traccer_my_final_verison.cpp(308,100): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Traccer_my_final_verison.vcxproj -> D:\Program Files (x86)\Рабочий стол\Лабораторные работы\Курсовая сети\Traccer_my_final_verison\x64\Debug\Traccer_my_final_verison.exe
